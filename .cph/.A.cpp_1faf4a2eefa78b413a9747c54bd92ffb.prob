@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"/home/mahin-sanklecha/mobilenetv2.pytorch/A.cpp","tests":[{"id":1762159875707,"input":"1\n4\n..##\n...#\n#...\n....","output":"YES\nYES\nYES\nYES\nNO\nNO\nNO\nYES\nYES\nNO\nYES\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/mahin-sanklecha/mobilenetv2.pytorch/A.cpp","group":"local","local":true}
